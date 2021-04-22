@@ -1,0 +1,32 @@
+{
+  "name": "login-register-api",
+  "version": "1.0.0",
+  "description": "Login Register API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API.git"
+  },
+  "keywords": [
+    "Login",
+    "Register",
+    "Ban",
+    "API"
+  ],
+  "author": "HideakiAtsuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API/issues"
+  },
+  "homepage": "https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API#ReadME",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^1.19.1"
+  }
+}

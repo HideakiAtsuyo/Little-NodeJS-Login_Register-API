@@ -1,0 +1,11 @@
+{
+	"Port": 3000,
+	"getAnswer_deadmode": true,
+	"apikeys": ["adminlmao", "omgananotherkey"],
+	"database":{
+		"host": "x.x.x.x or localhost",
+		"username": "username",
+		"password": "password",
+		"name": "loginregisterapi"
+	}
+}
