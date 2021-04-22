@@ -1,6 +1,13 @@
 # Little-NodeJS-Login_Register-API
 
 
+Open an [Issue](https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API/issues) if you:
+- Have a problem
+- Have some suggestions
+- Have some IDEAS
+- Anything other who care lol
+
+
 ## Configuration
 
 1) Setup the database
