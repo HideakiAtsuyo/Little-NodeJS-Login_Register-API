@@ -1,6 +1,6 @@
 {
 	"Port": 3000,
-	"getAnswer_deadmode": true,
+	"getAnswer_deadmode": false,
 	"apikeys": ["adminlmao", "omgananotherkey"],
 	"database":{
 		"host": "x.x.x.x or localhost",
