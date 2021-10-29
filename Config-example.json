@@ -1,9 +1,0 @@
-{
-    "db":{
-        "Host": "localhost",
-        "User": "root",
-        "Pass": "aPasswordOmgDon'tBruteForceMe",
-        "Database": "web-chat"
-    },
-    "port": 3000
-}
