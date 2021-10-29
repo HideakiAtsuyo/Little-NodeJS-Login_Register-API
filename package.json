@@ -1,32 +1,33 @@
 {
-  "name": "login-register-api",
+  "name": "web-chat",
   "version": "1.0.0",
-  "description": "Login Register API",
+  "description": "Web Chat",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API.git"
+    "url": "git+https://github.com/HideakiAtsuyo/web-chat.git"
   },
   "keywords": [
-    "Login",
-    "Register",
-    "Ban",
-    "API"
+    "WebChat",
+    "Online",
+    "Chat",
+    "Voice",
+    "Multi-Functions"
   ],
   "author": "HideakiAtsuyo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API/issues"
+    "url": "https://github.com/HideakiAtsuyo/web-chat/issues"
   },
-  "homepage": "https://github.com/HideakiAtsuyo/Little-NodeJS-Login_Register-API#ReadME",
+  "homepage": "https://github.com/HideakiAtsuyo/web-chat#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.2",
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "nodemon": "^1.19.1"
+    "mysql2": "^2.3.2",
+    "socket.io": "^4.3.1"
   }
 }
